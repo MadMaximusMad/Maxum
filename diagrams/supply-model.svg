@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="120" y="120" width="220" height="90" rx="16" ry="16"/><text class="text" x="230.0" y="161.0" text-anchor="middle">Treasury RFV</text><rect class="box" x="390" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="480.0" y="161.0" text-anchor="middle">Minting Capacity</text><rect class="box" x="620" y="120" width="220" height="90" rx="16" ry="16"/><text class="text" x="730.0" y="161.0" text-anchor="middle">Rewards / Expansion</text>
+    <path class="line" d="M340 165 L390 165" />
+    <path class="line" d="M380 157 L390 165 L380 173" />
+    
+    <path class="line" d="M570 165 L620 165" />
+    <path class="line" d="M610 157 L620 165 L610 173" />
+    <text class="text" x="480" y="55" text-anchor="middle">Circulating MAX ≤ Treasury RFV</text><text class="small" x="480" y="285" text-anchor="middle">Supply can expand only when real backing expands.</text>
+</svg>

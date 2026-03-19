@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="90" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="180.0" y="161.0" text-anchor="middle">Treasury Capital</text><rect class="box" x="390" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="480.0" y="161.0" text-anchor="middle">Liquidity Deployment</text><rect class="box" x="690" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="780.0" y="161.0" text-anchor="middle">Trading Activity</text>
+    <path class="line" d="M270 165 L390 165" />
+    <path class="line" d="M380 157 L390 165 L380 173" />
+    
+    <path class="line" d="M570 165 L690 165" />
+    <path class="line" d="M680 157 L690 165 L680 173" />
+    <path class="line" d="M780 220 C780 280, 180 280, 180 220" /><path class="line" d="M190 228 L180 220 L170 228" /><text class="small" x="480" y="60" text-anchor="middle">Treasury and liquidity reinforce each other through fee generation.</text>
+</svg>
