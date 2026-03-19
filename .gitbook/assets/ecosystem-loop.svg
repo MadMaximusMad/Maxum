@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="90" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="180.0" y="161.0" text-anchor="middle">Applications</text><rect class="box" x="320" y="120" width="140" height="90" rx="16" ry="16"/><text class="text" x="390.0" y="161.0" text-anchor="middle">Usage</text><rect class="box" x="510" y="120" width="140" height="90" rx="16" ry="16"/><text class="text" x="580.0" y="161.0" text-anchor="middle">Fees</text><rect class="box" x="700" y="120" width="160" height="90" rx="16" ry="16"/><text class="text" x="780.0" y="161.0" text-anchor="middle">Treasury</text><rect class="box" x="390" y="250" width="180" height="70" rx="16" ry="16"/><text class="text" x="480.0" y="281.0" text-anchor="middle">Liquidity</text>
+    <path class="line" d="M270 165 L320 165" />
+    <path class="line" d="M310 157 L320 165 L310 173" />
+    
+    <path class="line" d="M460 165 L510 165" />
+    <path class="line" d="M500 157 L510 165 L500 173" />
+    
+    <path class="line" d="M650 165 L700 165" />
+    <path class="line" d="M690 157 L700 165 L690 173" />
+    <path class="line" d="M780 210 L580 250" /><path class="line" d="M590 245 L580 250 L584 238" /><path class="line" d="M390 250 L210 210" /><path class="line" d="M220 205 L210 210 L214 198" /><text class="small" x="480" y="55" text-anchor="middle">Applications fuel the engine; stronger liquidity supports more applications.</text>
+</svg>

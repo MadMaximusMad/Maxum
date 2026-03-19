@@ -1,4 +1,4 @@
-# <img src="/icons/governance.svg" width="18"/> Governance
+# Governance
 
 As Maxum matures, governance is intended to decentralize around token holders and aligned participants. Decisions can move through a proposal, voting, timelock, and execution pipeline designed to make upgrades transparent and predictable.
 
@@ -6,7 +6,6 @@ Governance may control parameters such as fee distribution ratios, collateral wh
 
 The goal of governance is not just control. It is to ensure that the people aligned with Maxum’s long-term success can shape its evolution in public.
 
-![Governance Flow](/diagrams/governance-flow.svg)
+![Governance Flow](.gitbook/assets/governance-flow.svg)
 
-> [!TIP]
-> Governance exists to keep Maxum adaptable without making it arbitrary.
+> \[!TIP] Governance exists to keep Maxum adaptable without making it arbitrary.

@@ -1,4 +1,4 @@
-# <img src="/icons/tokenomics.svg" width="18"/> Supply Model
+# Supply Model
 
 Maxum uses an algorithmic supply model tied to treasury backing. The fundamental rule is simple:
 
@@ -8,7 +8,6 @@ This means the system can only expand within the boundaries of real support. Whe
 
 When market conditions are weak, burn mechanics and treasury defenses help offset pressure. This balance between expansion and contraction allows Maxum to grow without defaulting to uncontrolled emissions.
 
-![Supply Model](/diagrams/supply-model.svg)
+![Supply Model](../.gitbook/assets/supply-model.svg)
 
-> [!NOTE]
-> The supply model keeps growth connected to captured value rather than speculation alone.
+> \[!NOTE] The supply model keeps growth connected to captured value rather than speculation alone.

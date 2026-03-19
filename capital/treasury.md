@@ -1,4 +1,4 @@
-# <img src="/icons/treasury.svg" width="18"/> Treasury
+# Treasury
 
 The treasury is the economic core of Maxum.
 
@@ -47,7 +47,7 @@ Capital flows out of the treasury into liquidity, and the value generated flows 
 
 The relationship between treasury and liquidity forms a closed loop:
 
-![Treasury–Liquidity Flywheel](/diagrams/treasury-liquidity.svg)
+![Treasury–Liquidity Flywheel](../.gitbook/assets/treasury-liquidity.svg)
 
 As liquidity expands, markets improve. This attracts more activity, increases fees, and allows the treasury to deploy even more capital.
 
@@ -55,5 +55,4 @@ As liquidity expands, markets improve. This attracts more activity, increases fe
 
 Because liquidity is built and retained by the system, Maxum is less dependent on external participants. In traditional DeFi, liquidity leaves when incentives decline. In Maxum, liquidity is embedded into the system, creating deeper markets, reduced volatility from liquidity shocks, and stronger alignment between capital and growth.
 
-> [!TIP]
-> Maxum converts treasury capital into permanent market liquidity, creating a system where value is continuously recycled into deeper markets, stronger infrastructure, and sustained growth.
+> \[!TIP] Maxum converts treasury capital into permanent market liquidity, creating a system where value is continuously recycled into deeper markets, stronger infrastructure, and sustained growth.

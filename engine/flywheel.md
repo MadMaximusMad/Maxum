@@ -1,4 +1,4 @@
-# <img src="/icons/engine.svg" width="18"/> Economic Flywheel
+# Economic Flywheel
 
 Maxum operates through a self-reinforcing economic loop that converts activity into long-term system strength. At its core, the protocol is designed so that every interaction — whether it is trading, liquidity provision, or application usage — contributes to the expansion of liquidity and the growth of the treasury.
 
@@ -10,7 +10,7 @@ As liquidity deepens, the system becomes more efficient. Slippage decreases, tra
 
 That increased activity generates more fees, and the cycle continues.
 
-![Economic Flywheel](/diagrams/flywheel.svg)
+![Economic Flywheel](../.gitbook/assets/flywheel.svg)
 
 This flywheel is what allows Maxum to grow without relying on external incentives or continuous capital inflows. Instead of renting liquidity or depending on emissions, the system compounds its own activity.
 
@@ -22,5 +22,4 @@ Traditional DeFi systems often break because they rely on temporary incentives. 
 
 Maxum avoids this failure mode by ensuring that value generated inside the system is retained and reinvested. Every cycle strengthens liquidity rather than diluting it.
 
-> [!TIP]
-> The Maxum flywheel turns usage into infrastructure — every transaction contributes to deeper liquidity, stronger markets, and long-term system growth.
+> \[!TIP] The Maxum flywheel turns usage into infrastructure — every transaction contributes to deeper liquidity, stronger markets, and long-term system growth.
