@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1707" height="667" viewBox="0 0 1280 500" fill="none">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c75bc"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#12324a} .t{font-size:28px;font-weight:700} .s{font-size:20px} .box{fill:#f7fbff;stroke:#1c75bc;stroke-width:3;rx:24} .line{stroke:#1c75bc;stroke-width:4;stroke-linecap:round} .soft{fill:#eaf4fb;stroke:#1c75bc;stroke-width:3;rx:20}</style>
+
+<rect x="80" y="170" width="210" height="120" class="box"/><text x="185" y="230" text-anchor="middle" class="t">Activity</text><text x="185" y="260" text-anchor="middle" class="s">buys • sells • usage</text>
+<rect x="365" y="170" width="210" height="120" class="box"/><text x="470" y="230" text-anchor="middle" class="t">Fee Capture</text><text x="470" y="260" text-anchor="middle" class="s">value routed on-chain</text>
+<rect x="650" y="170" width="210" height="120" class="box"/><text x="755" y="230" text-anchor="middle" class="t">Treasury</text><text x="755" y="260" text-anchor="middle" class="s">capital accumulation</text>
+<rect x="935" y="170" width="210" height="120" class="box"/><text x="1040" y="230" text-anchor="middle" class="t">Liquidity</text><text x="1040" y="260" text-anchor="middle" class="s">depth and resilience</text>
+<path d="M290 230H365" class="line" marker-end="url(#arrow)"/><path d="M575 230H650" class="line" marker-end="url(#arrow)"/><path d="M860 230H935" class="line" marker-end="url(#arrow)"/>
+<path d="M1040 290V370H185V290" class="line" marker-end="url(#arrow)"/>
+<text x="640" y="75" text-anchor="middle" class="t">How Maxum Works</text>
+<text x="640" y="110" text-anchor="middle" class="s">usage creates value, and value is recycled into system-owned market infrastructure</text>
+
+</svg>

@@ -1,4 +1,6 @@
-# <img src="/icons/glossary.svg" width="18"/> Glossary
+# <img src="../icons/glossary.svg" width="24"/> Glossary
+
+<img src="../diagrams/glossary-map.svg" alt="Glossary Map" width="1200"/>
 
 **Productive, Permanent Liquidity**  
 Liquidity retained by the system that continuously generates value through trading activity, fees, and ecosystem usage.

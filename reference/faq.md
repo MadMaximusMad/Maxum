@@ -1,4 +1,6 @@
-# <img src="/icons/faq.svg" width="18"/> FAQ
+# <img src="../icons/faq.svg" width="24"/> FAQ
+
+<img src="../diagrams/faq-overview.svg" alt="FAQ Overview" width="1200"/>
 
 ## What backs MAX?
 

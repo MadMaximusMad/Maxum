@@ -1,4 +1,4 @@
-# <img src="/icons/tokenomics.svg" width="18"/> Capital & Tokenomics
+# <img src="../icons/tokenomics.svg" width="24"/> Capital & Tokenomics
 
 Maxum’s tokenomics are built on a single principle: **supply must be aligned with real, productive capital**.
 
@@ -18,6 +18,8 @@ It functions as:
 * a governance asset
 
 As the ecosystem expands, demand for MAX scales with usage, linking the token directly to economic activity within the system.
+
+<img src="../diagrams/tokenomics-balance.svg" alt="Tokenomics Balance" width="1200"/>
 
 ## Treasury-Backed Supply
 

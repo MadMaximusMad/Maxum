@@ -1,10 +1,12 @@
-# <img src="/icons/engine.svg" width="18"/> Mechanics (MAX)
+# <img src="../icons/engine.svg" width="24"/> Mechanics (MAX)
 
 Maxum operates as a self-reinforcing economic system that captures value from market activity and converts it into productive, permanent liquidity. At its core, the system is designed so that every interaction — whether it is trading, bonding, or participating in applications — contributes to the long-term strength of the protocol.
 
 Unlike traditional DeFi systems that depend on external liquidity providers or purely inflationary rewards, Maxum internalizes value flow. Fees, treasury growth, and liquidity expansion are interconnected, forming a feedback loop that compounds over time.
 
 To achieve this, Maxum relies on several core mechanisms that work together to drive growth, stability, and capital efficiency.
+
+<img src="../diagrams/mechanics-overview.svg" alt="Mechanics Overview" width="1200"/>
 
 ## The Core Loop
 

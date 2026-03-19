@@ -1,4 +1,4 @@
-# <img src="/icons/home.svg" width="18"/> Welcome to Maxum
+# <img src="icons/home.svg" width="24"/> Welcome to Maxum
 
 Maxum (MAX) is a decentralized liquidity engine designed with one mission: to transform liquidity into **productive, permanent liquidity** that powers on-chain economies. Maxum achieves this by capturing value from market activity and systematically converting it into treasury growth, deep liquidity, and sustainable economic infrastructure.
 
@@ -7,6 +7,8 @@ Maxum combines the foundational ideas of treasury-backed growth, adaptive supply
 Here you’ll find everything you need to understand how Maxum works, how value flows through the system, and how its mechanisms are designed to reinforce long-term growth.
 
 If any terminology in this documentation is unclear, refer to the Glossary section for definitions and core concepts.
+
+<img src="diagrams/welcome-overview.svg" alt="Maxum Capital Engine Overview" width="1200"/>
 
 ## Key Features
 

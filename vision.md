@@ -1,4 +1,4 @@
-# <img src="/icons/vision.svg" width="18"/> The Vision
+# <img src="icons/vision.svg" width="24"/> The Vision
 
 When designing Maxum, we approached the problem from first principles. We looked at the failures of traditional DeFi, the weaknesses of inflation-dependent incentive systems, the limitations of treasury protocols that accumulate assets without deploying them, and the broader mechanics of capital formation in on-chain economies.
 
@@ -7,6 +7,8 @@ In most systems, liquidity is treated as something to attract — temporary, ext
 Maxum is designed as a decentralized capital engine that converts market activity into productive, permanent liquidity. Rather than relying on external providers or unsustainable emissions, the system captures value directly from usage and reinvests it into its own infrastructure, creating a self-reinforcing economic loop.
 
 With this in mind, Maxum can be understood as a system that combines capital accumulation with active deployment — a liquidity engine that does not just store value, but continuously puts it to work across on-chain economies.
+
+<img src="diagrams/vision-loop.svg" alt="Vision Loop" width="1200"/>
 
 ## A Liquidity Engine That Compounds Itself
 

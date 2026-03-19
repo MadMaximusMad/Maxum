@@ -1,4 +1,4 @@
-# <img src="/icons/liquidity.svg" width="18"/> Productive, Permanent Liquidity
+# <img src="../icons/liquidity.svg" width="24"/> Productive, Permanent Liquidity
 
 Maxum is built on a simple but critical idea: liquidity should not be temporary — it should be retained, reinforced, and continuously put to work.
 
@@ -7,6 +7,8 @@ In most DeFi systems, liquidity is treated as a rented resource. Protocols offer
 Maxum rejects this model entirely.
 
 Instead of renting liquidity, Maxum converts value generated within the system into productive, permanent liquidity. This liquidity is retained by the protocol and cannot be withdrawn, ensuring that market depth remains stable regardless of external conditions.
+
+<img src="../diagrams/productive-liquidity.svg" alt="Productive Permanent Liquidity" width="1200"/>
 
 ## What Makes Liquidity Productive
 

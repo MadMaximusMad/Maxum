@@ -1,10 +1,12 @@
-# <img src="/icons/treasury.svg" width="18"/> Capital Strategy
+# <img src="icons/treasury.svg" width="24"/> Capital Strategy
 
 Maxum’s capital strategy combines accumulation with deployment. The system grows its treasury through transaction fees, bonding inflows, and application revenue. It then redeploys that capital into productive, permanent liquidity, market support, and ecosystem growth.
 
 This gives Maxum an advantage over systems that only accumulate assets or only incentivize temporary usage. Maxum does both: it gathers capital and puts it to work.
 
 Over time, this creates a treasury that is not merely larger, but more useful. Capital inside Maxum is expected to reinforce liquidity, support new applications, and strengthen the protocol’s economic loop.
+
+<img src="diagrams/capital-strategy-loop.svg" alt="Capital Strategy Loop" width="1200"/>
 
 ## Strategic Principle
 
