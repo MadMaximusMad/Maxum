@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Metrics & Transparency
 
 Maxum provides visibility into system performance through a set of core metrics.
