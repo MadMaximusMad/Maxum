@@ -1,3 +1,7 @@
+---
+icon: lightbulb
+---
+
 # Vision
 
 **Maxum exists to transform liquidity into a continuously compounding capital system.**
@@ -18,4 +22,4 @@ Usage strengthens the system that enables usage.
 
 Maxum therefore functions as a financial infrastructure layer for on-chain economies, where liquidity is continuously produced, utilized, and compounded.
 
-The operating form of that vision is defined in [System Loop](system/system-loop.md), while the movement of capital through the system is described in [Capital Formation](capital-flow/README.md) and [Capital Deployment](capital-flow/capital-deployment.md).
+The operating form of that vision is defined in [System Loop](../system/system-loop.md), while the movement of capital through the system is described in [Capital Formation](../capital-flow/) and [Capital Deployment](../capital-flow/capital-deployment.md).

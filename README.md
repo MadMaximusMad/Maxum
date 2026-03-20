@@ -14,4 +14,4 @@ The system is not designed to attract capital temporarily. It is designed to ret
 Maxum should be understood as a system in which capital is continuously in motion, rather than a structure in which capital is passively held.
 {% endhint %}
 
-The conceptual basis for this relationship is developed further in [Vision](introduction-vision.md), defined structurally in [What is Maxum](system/README.md), and expressed operationally in [System Loop](system/system-loop.md).
+The conceptual basis for this relationship is developed further in [Vision](welcome-to-maxum/introduction-vision.md), defined structurally in [What is Maxum](system/), and expressed operationally in [System Loop](system/system-loop.md).
