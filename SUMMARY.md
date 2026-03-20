@@ -30,8 +30,10 @@
 ## Ecosystem
 
 * [Ecosystem](ecosystem.md)
-* [Metrics & Transparency](metrics-and-transparency.md)
-* [System Summary](ecosystem/system-summary.md)
+* 
+## [Metrics & Transparency](metrics-and-transparency.md)
+
+## [System Summary](ecosystem/system-summary.md)
 
 ***
 
