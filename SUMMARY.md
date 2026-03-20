@@ -26,6 +26,6 @@
 ## Ecosystem
 
 * [Ecosystem](ecosystem.md)
-* [Metrics & Transparency](metrics-and-transparency.md)
+* [Metrics & Transparency](ecosystem/metrics-and-transparency.md)
 
 ## System Summary
