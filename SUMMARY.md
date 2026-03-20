@@ -1,33 +1,64 @@
-# Table of contents
+# Summary
 
-* [Welcome](README.md)
+## Introduction
 
-## Core Concepts
+* [Overview](README.md)
+* [Vision](introduction-vision.md)
 
-* [Vision](vision.md)
-* [Economics](economics.md)
+## System
 
-## Capital Flows
+* [What is Maxum](system/README.md)
+* [System Model](system/system-model.md)
+* [System Loop](system/system-loop.md)
 
-* [Liquidity & Markets](capital-flows/liquidity-and-markets.md)
-* [Capital & Revenue](capital-flows/capital-and-revenue.md)
+## Capital Flow
 
-## System Design
+* [Capital Formation](capital-flow/README.md)
+* [Capital Deployment](capital-flow/capital-deployment.md)
+* [Market Layer](capital-flow/market-layer.md)
+* [Activity Layer](capital-flow/activity-layer.md)
+* [Revenue Layer](capital-flow/revenue-layer.md)
+* [Balance Sheet](capital-flow/balance-sheet.md)
+* [Flow Integration](capital-flow/flow-integration.md)
 
-* [Tokenomics](tokenomics.md)
-* [Operational Mechanics](operational-mechanics.md)
-* [Stability & Risk Controls](stability-and-risk-controls.md)
+## Mechanisms
 
-## Protocol Layer
+* [Supply Model](mechanisms/README.md)
+* [Fee System](mechanisms/fee-system.md)
+* [Liquidity System](mechanisms/liquidity-system.md)
+* [Capital Expansion & Contraction](mechanisms/capital-expansion-and-contraction.md)
+* [Staking & Capital Efficiency](mechanisms/staking-and-capital-efficiency.md)
 
-* [Security](security.md)
-* [Governance](governance.md)
+## System Controls
+
+* [Stability Mechanisms](system-controls/README.md)
+* [Risk Controls](system-controls/risk-controls.md)
+* [Security Architecture](system-controls/security-architecture.md)
+
+## Governance
+
+* [Governance System](governance/README.md)
+* [Parameter Control](governance/parameter-control.md)
+* [Execution Constraints](governance/execution-constraints.md)
 
 ## Ecosystem
 
-* [Ecosystem](ecosystem.md)
-* [Metrics & Transparency](ecosystem/metrics-and-transparency.md)
+* [Growth Model](ecosystem/README.md)
+* [Use Cases](ecosystem/use-cases.md)
+* [System Expansion](ecosystem/system-expansion.md)
 
-## Untitled Group
+## Risks
 
-* [System Summary](untitled-group/system-summary.md)
+* [System Risk](risks/README.md)
+* [Market Risk](risks/market-risk.md)
+* [Smart Contract Risk](risks/smart-contract-risk.md)
+* [Liquidity Risk](risks/liquidity-risk.md)
+* [Regulatory Risk](risks/regulatory-risk.md)
+
+## Appendix
+
+* [Glossary](appendix/README.md)
+* [System Flow Reference](appendix/system-flow-reference.md)
+* [Technical References](appendix/technical-references.md)
+* [Contract Architecture](appendix/contract-architecture.md)
+* [Final System Note](appendix/final-system-note.md)
