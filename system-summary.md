@@ -1,3 +1,7 @@
+---
+icon: memo-pad
+---
+
 # System Summary
 
 Maxum operates as a continuous capital system in which liquidity, activity, and revenue are interconnected.
