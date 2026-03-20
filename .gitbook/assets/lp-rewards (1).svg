@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="427" viewBox="0 0 960 320" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="90" y="120" width="180" height="90" rx="16" ry="16"/><text class="text" x="180.0" y="161.0" text-anchor="middle">Fee Collected</text><rect class="box" x="340" y="120" width="250" height="90" rx="16" ry="16"/><text class="text" x="465.0" y="161.0" text-anchor="middle">Global Dividend Per Share</text><rect class="box" x="660" y="120" width="200" height="90" rx="16" ry="16"/><text class="text" x="760.0" y="161.0" text-anchor="middle">User Claims</text>
+    <path class="line" d="M270 165 L340 165" />
+    <path class="line" d="M330 157 L340 165 L330 173" />
+    
+    <path class="line" d="M590 165 L660 165" />
+    <path class="line" d="M650 157 L660 165 L650 173" />
+    <text class="small" x="480" y="260" text-anchor="middle">LP rewards scale efficiently without looping through every holder.</text>
+</svg>

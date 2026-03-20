@@ -1,3 +1,7 @@
+---
+icon: hand-wave
+---
+
 # Welcome
 
 ## What is Maxum

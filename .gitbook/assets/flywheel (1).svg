@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="453" viewBox="0 0 960 340" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="40" y="130" width="150" height="90" rx="16" ry="16"/><text class="text" x="115.0" y="171.0" text-anchor="middle">Activity</text><rect class="box" x="230" y="130" width="150" height="90" rx="16" ry="16"/><text class="text" x="305.0" y="171.0" text-anchor="middle">Fees</text><rect class="box" x="420" y="130" width="150" height="90" rx="16" ry="16"/><text class="text" x="495.0" y="171.0" text-anchor="middle">Treasury</text><rect class="box" x="610" y="130" width="150" height="90" rx="16" ry="16"/><text class="text" x="685.0" y="171.0" text-anchor="middle">Liquidity</text><rect class="box" x="800" y="130" width="120" height="90" rx="16" ry="16"/><text class="text" x="860.0" y="171.0" text-anchor="middle">Markets</text>
+    <path class="line" d="M190 175 L230 175" />
+    <path class="line" d="M220 167 L230 175 L220 183" />
+    
+    <path class="line" d="M380 175 L420 175" />
+    <path class="line" d="M410 167 L420 175 L410 183" />
+    
+    <path class="line" d="M570 175 L610 175" />
+    <path class="line" d="M600 167 L610 175 L600 183" />
+    
+    <path class="line" d="M760 175 L800 175" />
+    <path class="line" d="M790 167 L800 175 L790 183" />
+    <path class="line" d="M860 220 C860 300, 110 300, 110 220" /><path class="line" d="M120 228 L110 220 L100 228" /><text class="small" x="480" y="55" text-anchor="middle">Maxum converts participation into compounding system strength.</text>
+</svg>

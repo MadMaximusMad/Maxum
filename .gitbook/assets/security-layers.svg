@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1707" height="693" viewBox="0 0 1280 520" fill="none">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c75bc"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#12324a} .t{font-size:28px;font-weight:700} .s{font-size:20px} .box{fill:#f7fbff;stroke:#1c75bc;stroke-width:3;rx:24} .line{stroke:#1c75bc;stroke-width:4;stroke-linecap:round} .soft{fill:#eaf4fb;stroke:#1c75bc;stroke-width:3;rx:20}</style>
+
+<rect x="160" y="100" width="960" height="300" class="soft"/>
+<rect x="230" y="150" width="820" height="60" class="box"/><text x="640" y="190" text-anchor="middle" class="t">Contract Safety</text><text x="640" y="215" text-anchor="middle" class="s">reentrancy protection • arithmetic safety • testing</text>
+<rect x="230" y="230" width="820" height="60" class="box"/><text x="640" y="270" text-anchor="middle" class="t">Market Protection</text><text x="640" y="295" text-anchor="middle" class="s">TWAP logic • anti-MEV • launch controls</text>
+<rect x="230" y="310" width="820" height="60" class="box"/><text x="640" y="350" text-anchor="middle" class="t">Treasury Controls</text><text x="640" y="375" text-anchor="middle" class="s">multi-sig permissions • process transparency</text>
+<text x="640" y="58" text-anchor="middle" class="t">Security as a system design layer</text>
+
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1707" height="693" viewBox="0 0 1280 520" fill="none">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c75bc"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#12324a} .t{font-size:28px;font-weight:700} .s{font-size:20px} .box{fill:#f7fbff;stroke:#1c75bc;stroke-width:3;rx:24} .line{stroke:#1c75bc;stroke-width:4;stroke-linecap:round} .soft{fill:#eaf4fb;stroke:#1c75bc;stroke-width:3;rx:20}</style>
+
+<rect x="70" y="170" width="240" height="140" class="box"/>
+<text x="190" y="225" text-anchor="middle" class="t">Market Activity</text>
+<text x="190" y="260" text-anchor="middle" class="s">trading • usage • apps</text>
+<rect x="520" y="70" width="240" height="140" class="box"/>
+<text x="640" y="125" text-anchor="middle" class="t">Treasury Growth</text>
+<text x="640" y="160" text-anchor="middle" class="s">fees • bonding • revenue</text>
+<rect x="520" y="310" width="240" height="140" class="box"/>
+<text x="640" y="365" text-anchor="middle" class="t">Permanent Liquidity</text>
+<text x="640" y="400" text-anchor="middle" class="s">owned • productive • deep</text>
+<rect x="970" y="170" width="240" height="140" class="box"/>
+<text x="1090" y="225" text-anchor="middle" class="t">Ecosystem Expansion</text>
+<text x="1090" y="260" text-anchor="middle" class="s">markets • gaming • launches</text>
+<path d="M310 240H500" class="line" marker-end="url(#arrow)"/>
+<path d="M760 140H900Q930 140 930 170V210H970" class="line" marker-end="url(#arrow)"/>
+<path d="M970 270H930Q900 270 900 310V380H760" class="line" marker-end="url(#arrow)"/>
+<path d="M520 380H410Q350 380 350 310V250H310" class="line" marker-end="url(#arrow)"/>
+<text x="640" y="36" text-anchor="middle" class="t">Maxum Capital Engine</text>
+
+</svg>

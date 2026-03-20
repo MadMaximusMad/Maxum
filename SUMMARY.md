@@ -1,26 +1,20 @@
-# Summary
+# Table of contents
 
 * [Welcome](README.md)
-
-* Core Concepts
+* [Core Concepts](core-concepts/README.md)
   * [Vision](vision.md)
   * [Economics](economics.md)
-
-* Liquidity & Markets
+* [Liquidity & Markets](liquidity-and-markets/README.md)
   * [Liquidity & Markets](liquidity-and-markets.md)
   * [Capital & Revenue](capital-and-revenue.md)
-
-* System Design
+* [System Design](system-design/README.md)
   * [Tokenomics](tokenomics.md)
   * [Operational Mechanics](operational-mechanics.md)
   * [Stability & Risk Controls](stability-and-risk-controls.md)
-
-* Protocol Layer
+* [Protocol Layer](protocol-layer/README.md)
   * [Security](security.md)
   * [Governance](governance.md)
-
-* Ecosystem
+* [Ecosystem](ecosystem/README.md)
   * [Ecosystem](ecosystem.md)
   * [Metrics & Transparency](metrics-and-transparency.md)
-
 * [System Summary](system-summary.md)

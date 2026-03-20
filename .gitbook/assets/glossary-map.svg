@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1707" height="693" viewBox="0 0 1280 520" fill="none">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c75bc"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#12324a} .t{font-size:28px;font-weight:700} .s{font-size:20px} .box{fill:#f7fbff;stroke:#1c75bc;stroke-width:3;rx:24} .line{stroke:#1c75bc;stroke-width:4;stroke-linecap:round} .soft{fill:#eaf4fb;stroke:#1c75bc;stroke-width:3;rx:20}</style>
+
+<rect x="80" y="210" width="220" height="90" class="box"/><text x="190" y="265" text-anchor="middle" class="t">Bonding</text>
+<rect x="370" y="90" width="220" height="90" class="box"/><text x="480" y="145" text-anchor="middle" class="t">Treasury Deployment</text>
+<rect x="370" y="330" width="220" height="90" class="box"/><text x="480" y="385" text-anchor="middle" class="t">RFV Backing</text>
+<rect x="690" y="210" width="220" height="90" class="box"/><text x="800" y="265" text-anchor="middle" class="t">Elastic Supply</text>
+<rect x="980" y="210" width="220" height="90" class="box"/><text x="1090" y="250" text-anchor="middle" class="t">Productive</text><text x="1090" y="285" text-anchor="middle" class="t">Liquidity</text>
+<path d="M300 255H370" class="line" marker-end="url(#arrow)"/><path d="M590 145L650 205" class="line" marker-end="url(#arrow)"/><path d="M590 375L650 315" class="line" marker-end="url(#arrow)"/><path d="M910 255H980" class="line" marker-end="url(#arrow)"/>
+<text x="640" y="48" text-anchor="middle" class="t">Core concepts connect into one economic system</text>
+
+</svg>

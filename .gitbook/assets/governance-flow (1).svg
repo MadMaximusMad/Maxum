@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="427" viewBox="0 0 960 320" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <rect class="box" x="80" y="120" width="170" height="90" rx="16" ry="16"/><text class="text" x="165.0" y="161.0" text-anchor="middle">Proposal</text><rect class="box" x="300" y="120" width="170" height="90" rx="16" ry="16"/><text class="text" x="385.0" y="161.0" text-anchor="middle">Voting</text><rect class="box" x="520" y="120" width="170" height="90" rx="16" ry="16"/><text class="text" x="605.0" y="161.0" text-anchor="middle">Timelock</text><rect class="box" x="740" y="120" width="140" height="90" rx="16" ry="16"/><text class="text" x="810.0" y="161.0" text-anchor="middle">Execution</text>
+    <path class="line" d="M250 165 L300 165" />
+    <path class="line" d="M290 157 L300 165 L290 173" />
+    
+    <path class="line" d="M470 165 L520 165" />
+    <path class="line" d="M510 157 L520 165 L510 173" />
+    
+    <path class="line" d="M690 165 L740 165" />
+    <path class="line" d="M730 157 L740 165 L730 173" />
+    <text class="small" x="480" y="70" text-anchor="middle">Governance changes move through a visible, time-delayed pipeline.</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1707" height="667" viewBox="0 0 1280 500" fill="none">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c75bc"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#12324a} .t{font-size:28px;font-weight:700} .s{font-size:20px} .box{fill:#f7fbff;stroke:#1c75bc;stroke-width:3;rx:24} .line{stroke:#1c75bc;stroke-width:4;stroke-linecap:round} .soft{fill:#eaf4fb;stroke:#1c75bc;stroke-width:3;rx:20}</style>
+
+<rect x="120" y="180" width="260" height="120" class="box"/><text x="250" y="235" text-anchor="middle" class="t">User Deposits</text><text x="250" y="270" text-anchor="middle" class="s">stablecoins or LP assets</text>
+<rect x="510" y="180" width="260" height="120" class="box"/><text x="640" y="235" text-anchor="middle" class="t">Treasury Grows</text><text x="640" y="270" text-anchor="middle" class="s">backing and reserves increase</text>
+<rect x="900" y="180" width="260" height="120" class="box"/><text x="1030" y="235" text-anchor="middle" class="t">MAX Vests</text><text x="1030" y="270" text-anchor="middle" class="s">discounted entry over time</text>
+<path d="M380 240H510" class="line" marker-end="url(#arrow)"/><path d="M770 240H900" class="line" marker-end="url(#arrow)"/>
+<path d="M1030 300V380H250V300" class="line" marker-end="url(#arrow)"/>
+
+</svg>

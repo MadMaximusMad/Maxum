@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 960 360" fill="none">
+  <style>
+    .box { fill: white; stroke: #1c75bc; stroke-width: 2; rx: 16; ry: 16; }
+    .text { fill: #0f172a; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 600; }
+    .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+    .line { stroke: #1c75bc; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .muted { fill: #f8fafc; stroke: #1c75bc; stroke-width: 2; rx: 14; ry: 14; }
+  </style>
+  <circle cx="480" cy="180" r="120" stroke="#1c75bc" stroke-width="2" fill="white"/><path d="M480 180 L480 60 A120 120 0 0 1 584 240 Z" fill="#eaf4fb" stroke="#1c75bc" stroke-width="2"/><path d="M480 180 L584 240 A120 120 0 0 1 324 120 Z" fill="#d8ecfa" stroke="#1c75bc" stroke-width="2"/><path d="M480 180 L324 120 A120 120 0 0 1 480 60 Z" fill="#f5fbff" stroke="#1c75bc" stroke-width="2"/><text class="text" x="480" y="180" text-anchor="middle">3% Fee</text><text class="small" x="480" y="205" text-anchor="middle">Trading Split</text><text class="text" x="660" y="130">Burn</text><text class="small" x="660" y="155">50% / 1.5%</text><text class="text" x="660" y="200">LP Dividends</text><text class="small" x="660" y="225">30% / 0.9%</text><text class="text" x="660" y="270">Treasury</text><text class="small" x="660" y="295">20% / 0.6%</text>
+</svg>
