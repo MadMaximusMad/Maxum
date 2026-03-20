@@ -28,7 +28,6 @@
 * [Ecosystem](ecosystem.md)
 * [Metrics & Transparency](ecosystem/metrics-and-transparency.md)
 
-## ‎
+## Untitled Group
 
-* [System Summary](system-summary.md)
-
+* [System Summary](untitled-group/system-summary.md)
