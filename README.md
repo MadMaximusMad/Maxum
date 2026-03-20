@@ -1,23 +1,39 @@
-# <img src="icons/home.svg" width="24"/> Welcome to Maxum
+# Welcome
 
-Maxum (MAX) is a decentralized liquidity engine designed with one mission: to transform liquidity into **productive, permanent liquidity** that powers on-chain economies. Maxum achieves this by capturing value from market activity and systematically converting it into treasury growth, deep liquidity, and sustainable economic infrastructure.
+## What is Maxum
 
-Maxum combines the foundational ideas of treasury-backed growth, adaptive supply, and application-driven demand into a unified capital engine. Instead of relying on temporary incentives or external liquidity providers, Maxum builds a system where liquidity is retained, compounded, and continuously deployed across an expanding ecosystem of decentralized applications.
+Maxum is a liquidity infrastructure system designed to deploy and manage capital across on-chain markets.
 
-Here you’ll find everything you need to understand how Maxum works, how value flows through the system, and how its mechanisms are designed to reinforce long-term growth.
+It operates as a continuous financial engine in which capital is transformed into active liquidity, liquidity enables markets, markets generate activity, and that activity produces revenue. Rather than functioning as a passive store of value or depending on short-term liquidity programs, Maxum uses capital as an active system resource. Revenue generated through activity is returned to the system, strengthening future liquidity deployment and reinforcing the market layer over time.
 
-If any terminology in this documentation is unclear, refer to the Glossary section for definitions and core concepts.
+Rather than relying on external liquidity providers or temporary incentive structures, Maxum builds and maintains its own liquidity layer. This allows markets to function with greater consistency, depth, and efficiency, even as conditions change. The result is a system where liquidity is not treated as a campaign objective, but as permanent market infrastructure.
 
-<img src="diagrams/welcome-overview.svg" alt="Maxum Capital Engine Overview" width="1200"/>
+Maxum is not a single application or isolated feature. It is a system that connects capital, liquidity, markets, applications, and users into a unified economic structure. Each part of the system reinforces the others, allowing activity to strengthen liquidity and liquidity to support further activity.
 
-## Key Features
+## Why Maxum Exists
 
-* **Productive, Permanent Liquidity:** Maxum builds liquidity that is retained by the system and continuously generates value through trading activity, fees, and ecosystem usage.
-* **Capital Engine Architecture:** Maxum captures value from market activity and routes it into a self-reinforcing system where fees grow the treasury, the treasury expands liquidity, and liquidity enables further activity.
-* **Treasury Expansion Mechanisms:** Through trading fees, bonding, and ecosystem revenue, Maxum continuously accumulates capital that is actively deployed to deepen markets and strengthen the system.
-* **Application-Driven Demand:** Maxum supports a growing ecosystem of on-chain applications, including markets, gaming systems, and token launch infrastructure, all of which generate activity and demand for MAX.
-* **Sustainable Revenue Model:** Rather than relying on inflationary emissions alone, Maxum generates revenue from real usage, reinforcing long-term sustainability.
-* **Transparent and Decentralized:** Maxum is designed to operate on-chain with visible treasury activity and decentralized governance.
+On-chain systems depend on liquidity to function effectively. Without sufficient liquidity, markets become volatile, pricing becomes inefficient, user experience deteriorates, and applications struggle to scale. In practice, this means even well-designed products can fail if the markets around them are too shallow or unstable to support sustained use.
 
-> [!TIP]
-> Maxum does not treat liquidity as something to attract — it treats liquidity as infrastructure to build, own, and continuously optimize.
+Historically, liquidity has often been sourced through incentives. Protocols distribute tokens to attract capital, and while that approach can be effective in the short term, it usually produces temporary participation rather than long-term stability. Capital enters when rewards are high and exits when they fall, creating unstable market conditions and weakening the applications that depend on them.
+
+This leads to several structural consequences. Liquidity becomes fragmented across platforms, capital becomes transient rather than committed, and markets remain too shallow to support continuous activity. The result is that many on-chain systems fail not because the product itself is weak, but because the underlying market infrastructure is unreliable.
+
+Maxum exists to address that problem directly. Instead of treating liquidity as something that must constantly be rented from the market, it treats liquidity as infrastructure that can be built, maintained, and expanded over time.
+
+## The Maxum Approach
+
+Maxum addresses these limitations by treating liquidity as infrastructure rather than as a temporary resource.
+
+Instead of attracting liquidity through recurring incentives, the system deploys capital directly into markets. This allows liquidity to remain persistent, to be allocated strategically, and to stay aligned with long-term system growth. Rather than depending on outside participants to keep markets functional, Maxum creates the conditions for markets to sustain themselves through the way capital is structured and redeployed.
+
+Capital within Maxum is continuously used to support trading pairs, enable application-level markets, facilitate user interaction, and generate revenue. That means capital is not sitting idle within the system. It is either improving market depth, supporting transaction flow, or contributing to the broader economic loop that reinforces the system over time.
+
+Because of this, liquidity is available where it is needed and improves as the system grows. Market depth does not decay when incentives weaken. Instead, it is strengthened by ongoing usage and by the system’s ability to convert activity into renewed deployment.
+
+## Core Outcome
+
+Through this design, Maxum enables markets that are stable, scalable, and continuously supported by active liquidity.
+
+This has several important effects. Liquidity can remain available across applications, market conditions can improve as usage increases, and revenue can be generated from real economic activity rather than from token emissions alone. Those effects combine to create a stronger foundation for both financial and application-level systems.
+
+Over time, this positions Maxum as a foundational layer for on-chain economies. Rather than existing as a standalone token system, it becomes a market infrastructure layer that other applications can rely on.

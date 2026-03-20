@@ -1,12 +1,42 @@
-# <img src="icons/governance.svg" width="24"/> Governance
+# \# Governance
 
-As Maxum matures, governance is intended to decentralize around token holders and aligned participants. Decisions can move through a proposal, voting, timelock, and execution pipeline designed to make upgrades transparent and predictable.
+# 
 
-Governance may control parameters such as fee distribution ratios, collateral whitelisting, treasury allocations, and modular contract upgrades. A timelock is especially important because it gives participants time to react to controversial decisions before they take effect.
+# \## Governance Model
 
-The goal of governance is not just control. It is to ensure that the people aligned with Maxum’s long-term success can shape its evolution in public.
+# 
 
-<img src="diagrams/governance-flow.svg" alt="Governance Flow" width="1200"/>
+# Maxum operates under a governance structure that allows participants to influence system evolution.
 
-> [!TIP]
-> Governance exists to keep Maxum adaptable without making it arbitrary.
+# 
+
+# Decisions are made collectively, enabling the system to adapt over time while maintaining alignment with its participants. Governance provides a mechanism through which the system can evolve without central control.
+
+# 
+
+# \## Proposal Process
+
+# 
+
+# Changes to the system follow a structured process.
+
+# 
+
+# Proposals are submitted, reviewed, and voted on by participants. Once approved, they are subject to a delay period before execution. This ensures transparency and provides time for review before changes are implemented.
+
+# 
+
+# This process helps prevent abrupt or unreviewed changes, maintaining system stability.
+
+# 
+
+# \## Parameters
+
+# 
+
+# Governance can adjust key system parameters as needed.
+
+# 
+
+# These include elements such as fee structures, capital allocation strategies, and system-level configurations. By allowing controlled adjustments, governance ensures that the system can respond to changing conditions while maintaining its overall design.
+

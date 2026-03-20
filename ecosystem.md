@@ -1,12 +1,46 @@
-# <img src="icons/ecosystem.svg" width="24"/> Ecosystem
+# \# Ecosystem
 
-Maxum is designed to support a growing ecosystem of on-chain applications. These may include prediction markets, gaming systems, token launch platforms, and other financial primitives that use MAX as settlement, collateral, or liquidity infrastructure.
+# 
 
-Applications matter because they generate real activity. That activity creates fees, strengthens the treasury, and drives demand for the assets and markets that Maxum supports. In this way, the ecosystem is not separate from the protocol — it is a direct contributor to the capital engine itself.
+# \## Application Layer
 
-<img src="diagrams/ecosystem-loop.svg" alt="Ecosystem Loop" width="1200"/>
+# 
 
-As the ecosystem expands, more value flows through the system. That value reinforces liquidity, improves market depth, and supports further application growth.
+# Maxum supports a wide range of applications that depend on liquidity to function.
 
-> [!TIP]
-> Applications are the fuel of the Maxum engine. They turn liquidity into revenue-generating infrastructure.
+# 
+
+# These include gaming systems, launch platforms, and prediction markets, each of which requires efficient markets to operate. By providing the liquidity layer, Maxum enables these applications to focus on their core functionality without needing to build market infrastructure from scratch.
+
+# 
+
+# \## Integration Model
+
+# 
+
+# Applications integrate with Maxum by utilizing MAX as a pairing asset and accessing its liquidity layer.
+
+# 
+
+# This allows them to build markets directly on top of an existing economic foundation. As a result, integration becomes simpler, and applications can scale more effectively.
+
+# 
+
+# This shared infrastructure model reduces fragmentation and increases overall system efficiency.
+
+# 
+
+# \## Growth Strategy
+
+# 
+
+# Growth within the ecosystem is driven by increasing usage, expanding integrations, and deeper liquidity.
+
+# 
+
+# As more applications rely on Maxum, activity within the system increases. This generates more revenue, strengthens the capital base, and enables further liquidity deployment.
+
+# 
+
+# This creates a reinforcing cycle where growth in one area supports growth across the entire system.
+

@@ -1,12 +1,18 @@
-# <img src="icons/security.svg" width="24"/> Security
+# \# Security
 
-Maxum prioritizes security at the protocol level. State-modifying functions that involve external calls are protected against reentrancy, arithmetic is handled with Solidity’s modern safety guarantees, and pricing logic can rely on time-weighted averages to reduce manipulation risk.
+# 
 
-Launch controls and anti-MEV protections are designed to reduce the impact of automated sniping and hostile early-block behavior. Treasury permissions are intended to be secured behind a multi-signature architecture, and the protocol should undergo unit, integration, fuzz, and mainnet-fork testing before production deployment.
+# Security within Maxum is implemented across multiple layers, ensuring that both the system and its capital are protected.
 
-Security in Maxum is not only about contract correctness. It is also about protecting liquidity, treasury assets, and user confidence under real market conditions.
+# 
 
-<img src="diagrams/security-layers.svg" alt="Security Layers" width="1200"/>
+# At the smart contract level, protections are in place to prevent common vulnerabilities such as reentrancy and execution errors. Contracts are subject to auditing processes to ensure reliability and correctness.
 
-> [!NOTE]
-> Security is part of the economic design, not just the codebase.
+# 
+
+# At the market level, safeguards are implemented to reduce exposure to manipulation and adverse execution conditions, including protections against oracle-related risks and extractive behaviors.
+
+# 
+
+# At the capital level, access is controlled through mechanisms such as multisignature authorization, ensuring that critical operations require coordinated approval. This reduces the risk of unilateral actions and strengthens system integrity.
+
