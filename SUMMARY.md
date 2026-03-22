@@ -13,6 +13,7 @@
 
 ## Capital Flow
 
+* [Overview](capital-flow/overview.md)
 * [Capital Formation](capital-flow/README.md)
 * [Capital Deployment](capital-flow/capital-deployment.md)
 * [Market Layer](capital-flow/market-layer.md)
@@ -23,6 +24,7 @@
 
 ## Mechanisms
 
+* [Overview](mechanisms/overview.md)
 * [Supply Model](mechanisms/README.md)
 * [Fee System](mechanisms/fee-system.md)
 * [Liquidity System](mechanisms/liquidity-system.md)
@@ -31,6 +33,7 @@
 
 ## System Controls
 
+* [Overview](system-controls/overview.md)
 * [Stability Mechanisms](system-controls/README.md)
 * [Risk Controls](system-controls/risk-controls.md)
 * [Security Architecture](system-controls/security-architecture.md)
