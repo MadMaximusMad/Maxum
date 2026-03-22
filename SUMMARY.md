@@ -1,9 +1,7 @@
 # Table of contents
 
-## Welcome to Maxum
-
-* [Overview](README.md)
-* [Vision](welcome-to-maxum/introduction-vision.md)
+* [Welcome to Maxum](README.md)
+* [Vision](introduction-vision.md)
 
 ## System
 
